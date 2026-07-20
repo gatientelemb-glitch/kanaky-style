@@ -1,0 +1,22 @@
+body {
+    background-color: #008000;
+}
+
+p {
+    color: blue;
+}
+
+.inner-box p {
+    background-color: white;
+    padding: 20px;
+    marging: 10px;
+}
+img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+
+
